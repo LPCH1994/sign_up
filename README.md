@@ -1,2 +1,2 @@
-# sign_up
-# sign_up
+Admin: Email: hsblh32@gmail.com
+		pass:12341234
