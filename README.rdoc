@@ -1,3 +1,3 @@
-admin:
-hsblh32@gmail.com	
-pass: 12341234
+admin account
+email:  hsblh32@gmail.com
+pass:   12341234
